@@ -1,0 +1,59 @@
+[
+    {
+      "image": "https://images.unsplash.com/photo-1624378441864-6eda7eac51cb?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Quần jean nữ",
+      "code": "K0002",
+      "discountedPrice": "269.000 vnd",
+      "originalPrice": "370.000 vnd"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577660002965-04865592fc60?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Áo khoác nữ",
+      "code": "VN0002",
+      "discountedPrice": "249.000 vnd",
+      "originalPrice": "369.000 vnd"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Áo phông nữ",
+      "code": "US0002",
+      "discountedPrice": "159.000 vnd",
+      "originalPrice": "390.000 vnd"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1478146896981-b80fe463b330?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Váy đầm nữ",
+      "code": "DR0001",
+      "discountedPrice": "199.000 vnd",
+      "originalPrice": "350.000 vnd"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1553808373-b2c5b7ddb117?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Giày nữ",
+      "code": "SH0001",
+      "discountedPrice": "299.000 vnd",
+      "originalPrice": "500.000 vnd"
+    }, 
+    {
+      "image": "https://images.unsplash.com/photo-1554632084-1dcbc408d11d?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Túi xách nữ",
+      "code": "BL0001",
+      "discountedPrice": "399.000 vnd",
+      "originalPrice": "600.000 vnd"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1583292650898-7d22cd27ca6f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Vòng tay nữ",
+      "code": "PD0001",
+      "discountedPrice": "259.000 vnd",
+      "originalPrice": "400.000 vnd"
+    }, 
+    {
+      "image": "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Túi xách nữ",
+      "code": "ML0001",
+      "discountedPrice": "399.000 vnd",
+      "originalPrice": "600.000 vnd"
+    }
+  ]
+  
